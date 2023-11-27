@@ -16,11 +16,11 @@
  [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://tingxueronghua.github.io/ChartLlama/)
 
 
-[**Yucheng Han**$^{\ast}$](http://tingxueronghua.github.io), [**Chi Zhang**$^{\ast\dag}$](https://icoz69.github.io/), [Xin Chen](https://chenxin.tech/), [Xu Yang](https://cse.seu.edu.cn/2021/1126/c23024a392593/page.htm), [Zhibin Wang](https://openreview.net/profile?id=~Billzb_Wang1)
+[**Yucheng Han**$^{*}$](http://tingxueronghua.github.io), [**Chi Zhang**$^{*\lozenge}$](https://icoz69.github.io/), [Xin Chen](https://chenxin.tech/), [Xu Yang](https://cse.seu.edu.cn/2021/1126/c23024a392593/page.htm), [Zhibin Wang](https://openreview.net/profile?id=~Billzb_Wang1)
 <br>
 [Gang Yu](https://www.skicyyu.org/), [Bin Fu](https://openreview.net/profile?id=~BIN_FU2), [Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/)
 <br><br>
-($^\ast$ equal contributions,$^\dag$ corresponding author)
+($^*$ equal contributions,$^\lozenge$ corresponding author)
 
 From Tencent and Nanyang Technological University.
 
