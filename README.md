@@ -15,12 +15,11 @@
  [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://tingxueronghua.github.io/ChartLlama/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://tingxueronghua.github.io/ChartLlama/)
 
-$^{*}$
-[**Yucheng Han**$^{*}$](http://tingxueronghua.github.io), [**Chi Zhang**$^{*\lozenge}$](https://icoz69.github.io/), [Xin Chen](https://chenxin.tech/), [Xu Yang](https://cse.seu.edu.cn/2021/1126/c23024a392593/page.htm), [Zhibin Wang](https://openreview.net/profile?id=~Billzb_Wang1)
+[**Yucheng Han***](http://tingxueronghua.github.io), [**Chi Zhang***(Corresponding Author)](https://icoz69.github.io/), [Xin Chen](https://chenxin.tech/), [Xu Yang](https://cse.seu.edu.cn/2021/1126/c23024a392593/page.htm), [Zhibin Wang](https://openreview.net/profile?id=~Billzb_Wang1)
 <br>
 [Gang Yu](https://www.skicyyu.org/), [Bin Fu](https://openreview.net/profile?id=~BIN_FU2), [Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/)
 <br><br>
-($^*$ equal contributions,$^\lozenge$ corresponding author)
+(* equal contributions)
 
 From Tencent and Nanyang Technological University.
 
@@ -93,17 +92,15 @@ Waiting to be released.
 
 
 
-<!-- ## 😉 Citation
+## 😉 Citation
 ```bib
-@misc{qiu2023freenoise,
-      title={FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling}, 
-      author={Haonan Qiu and Menghan Xia and Yong Zhang and Yingqing He and Xintao Wang and Ying Shan and Ziwei Liu},
+@misc{yucheng2023chartllama,
+      title={ChartLlama: A Multimodal LLM for Chart Understanding and Generation}, 
+      author={Yucheng Han, Chi Zhang, Xin Chen, Xu Yang, Zhibin Wang, Gang Yu, Bin Fu, Hanwang Zhang},
       year={2023},
-      eprint={2310.15169},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      howpublished={\url{https://github.com/tingxueronghua/ChartLlama-code}}
 }
-``` -->
+```
 
 
 ## 📢 Disclaimer
