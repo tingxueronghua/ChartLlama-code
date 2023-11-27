@@ -49,6 +49,7 @@ Resolution: 1024 x 576; Frames: 64.</p> -->
 </div>
 
 ## 📝 Changelog
+- __[2023.11.27]__: 🔥🔥 Update the inference code and model weights.
 - __[2023.11.27]__: Create the git repository.
 <!-- - __[2023.10.25]__: 🔥🔥 Release the 256x256 model and support multi-prompt generation! -->
 <br>
@@ -77,14 +78,26 @@ pip install -r requirements.txt
 
 ## 💫 Inference 
 
-Waiting to be released.
+You need to first install LLaVA-1.5, then use model_vqa_lora to do inference. The model_path is the path to our Lora checkpoints, the question-file is the json file containing all questions, the image-folder is the folder containing all your images and the answers-file is the output file name.
+
+Here is an example:
+```bash
+CUDA_VISIBLE_DEVICES=1 python -m llava.eval.model_vqa_lora --model-path /your_path_to/LLaVA/checkpoints/${output_name} \
+    --question-file /your_path_to/question.json \
+    --image-folder ./playground/data/ \
+    --answers-file ./playground/data/ans.jsonl \
+    --num-chunks $CHUNKS \
+    --chunk-idx $IDX \
+    --temperature 0 \
+    --conv-mode vicuna_v1 &
+```
 
 
 ## 📖 TO-DO LIST
-- [ ] Open source the training scripts.
+- [ ] Open source the training scripts and the dataset.
 - [ ] Open source the evaluation scripts.
-- [ ] Open source the inference script.
-- [ ] Open source the model and dataset.
+- [x] Open source the inference script.
+- [x] Open source the model.
 - [x] Create the git repository.
 
 
