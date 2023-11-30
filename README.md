@@ -95,6 +95,7 @@ CUDA_VISIBLE_DEVICES=1 python -m llava.eval.model_vqa_lora --model-path /your_pa
 
 
 ## 📖 TO-DO LIST
+- [ ] Create and open source a new chart dataset in Chinese.
 - [ ] Open source the training scripts and the dataset.
 - [ ] Open source the evaluation scripts.
 - [ ] Open source the evaluation dataset.
