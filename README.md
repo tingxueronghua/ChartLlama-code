@@ -107,11 +107,13 @@ CUDA_VISIBLE_DEVICES=1 python -m llava.eval.model_vqa_lora --model-path /your_pa
 
 ## 😉 Citation
 ```bib
-@misc{yucheng2023chartllama,
+@misc{han2023chartllama,
       title={ChartLlama: A Multimodal LLM for Chart Understanding and Generation}, 
-      author={Yucheng Han, Chi Zhang, Xin Chen, Xu Yang, Zhibin Wang, Gang Yu, Bin Fu, Hanwang Zhang},
+      author={Yucheng Han and Chi Zhang and Xin Chen and Xu Yang and Zhibin Wang and Gang Yu and Bin Fu and Hanwang Zhang},
       year={2023},
-      howpublished={\url{https://github.com/tingxueronghua/ChartLlama-code}}
+      eprint={2311.16483},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
