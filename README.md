@@ -97,6 +97,7 @@ CUDA_VISIBLE_DEVICES=1 python -m llava.eval.model_vqa_lora --model-path /your_pa
 ## 📖 TO-DO LIST
 - [ ] Open source the training scripts and the dataset.
 - [ ] Open source the evaluation scripts.
+- [ ] Open source the evaluation dataset.
 - [x] Open source the inference script.
 - [x] Open source the model.
 - [x] Create the git repository.
