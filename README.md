@@ -12,7 +12,9 @@
  <a href='https://arxiv.org/abs/2311.16483'><img src='https://img.shields.io/badge/arXiv-2310.15169-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://tingxueronghua.github.io/ChartLlama/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://github.com/buaacyw/GaussianEditor/blob/master/LICENSE.txt'><img src='https://img.shields.io/badge/License-MIT-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/listen2you002/ChartLlama-13b)
+ <br><br>
+ [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/listen2you002/ChartLlama-13b) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/listen2you002/ChartLlama-Dataset)
 
 [**Yucheng Han***](http://tingxueronghua.github.io), [**Chi Zhang***(Corresponding Author)](https://icoz69.github.io/), [Xin Chen](https://chenxin.tech/), [Xu Yang](https://cse.seu.edu.cn/2021/1126/c23024a392593/page.htm), [Zhibin Wang](https://openreview.net/profile?id=~Billzb_Wang1)
 <br>
@@ -68,6 +70,12 @@ Resolution: 1024 x 576; Frames: 64.</p> -->
 
 ## ⚙️ Setup
 Refer to the LLaVA-1.5.
+Since I have uploaded the code, you can just install by 
+
+```bash
+pip install -e .
+```
+
 <!-- 
 ### Install Environment via Anaconda (Recommended)
 ```bash
